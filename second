@@ -10,8 +10,8 @@
         <shape android:shape="oval">
             <solid android:color="@color/custom_selected"/>
             <stroke
-                    android:width="@dimen/dimen_margin_circle"
-                    android:color="@color/transparent"/>
+                    # android:width="@dimen/dimen_margin_circle"
+                   # android:color="@color/transparent"/>
         </shape>
     </item>
 </layer-list>
